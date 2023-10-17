@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "hexlet projects",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WhereIU/environment-git.git"
+  },
+  "keywords": [
+    "hexlet"
+  ],
+  "author": "saint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhereIU/environment-git/issues"
+  },
+  "homepage": "https://github.com/WhereIU/environment-git#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
